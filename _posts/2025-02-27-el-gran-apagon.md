@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "El gran apagón"
+title:  "Gran apagón eléctrico en Chile"
 date:   2025-02-27 14:32:00 -0300
 categories: Actualidad
 permalink: /:categories/:year/:month/:day/:title/
