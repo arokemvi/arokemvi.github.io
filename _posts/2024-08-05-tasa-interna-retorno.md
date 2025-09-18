@@ -9,12 +9,13 @@ permalink: /:categories/:year/:month/:day/:title/
 ### Definición.
 La TIR se define como la tasa de interés que iguala el valor presente de los flujos de efectivo esperados a futuro, o de los ingresos, con el desembolso inicial de efectivo.
 
-$$ \sum_{t=1}^{n}\frac{FE_{t}}{(1+TIR)^{t}}-I_{0}=0 $$
+<!--$$ \sum_{t=1}^{n}\frac{FE_{t}}{(1+TIR)^{t}}-I_{0}=0 $$-->
+![tir](/assets/images/tir.jpg)
 
-Donde:
-$$FE_{t} \text{: Flujo neto de efectivo en el periodo.} $$
-$$n \text{: Vida esperada del proyecto.} $$
-$$I_{0} \text{: Costo inicial del proyecto.} $$
+Donde:\
+FE_{t} : Flujo neto de efectivo en el periodo.\
+n : Vida esperada del proyecto.\
+I_{0} : Costo inicial del proyecto.
 
 ### Criterio de decisión.
 Una inversión es aceptable si la TIR es superior al rendimiento requerido. De lo contrario, debería ser rechazada.

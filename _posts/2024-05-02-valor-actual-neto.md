@@ -9,13 +9,14 @@ permalink: /:categories/:year/:month/:day/:title/
 ### Definición.
 Acrónimo **VAN**. Es el valor presente de los flujos netos de efectivos (ingresos – egresos) originados por una inversión.
 
-$$ VAN=\sum_{t=1}^{n}\frac{FE_{t}}{(1+i)^{t}}-I_{0} $$
+<!--$$ VAN=\sum_{t=1}^{n}\frac{FE_{t}}{(1+i)^{t}}-I_{0} $$-->
+![van](/assets/images/van.jpg)
 
-Donde:
-$$ FE_{t} \text{: Flujo neto de efectivo en el periodo.} $$
-$$ i \text{: Costo de oportunidad.} $$
-$$ n \text{: Vida esperada del proyecto.} $$
-$$ I_{0} \text{: Costo inicial del proyecto.} $$
+Donde:\
+FE_{t} : Flujo neto de efectivo en el periodo.\
+i : Costo de oportunidad.\
+n : Vida esperada del proyecto.\
+I_{0} : Costo inicial del proyecto.
 
 ### Criterio de decisión.
 Si el valor presente neto es positivo, el proyecto debe ser aceptado; si es negativo, debe ser rechazado.

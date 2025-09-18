@@ -39,7 +39,8 @@ Donde:\
 
 Para el cálculo de **FE desc.** utilizamos la formula:
 
-$$ FE_{desc} = \frac{FE}{(1 + i)^n} $$
+<!--$$ FE_{desc} = \frac{FE}{(1 + i)^n} $$-->
+![fe_desc](/assets/images/fe_desc.jpg)
 
 Si el periodo límite para recuperar la inversión es 5 años observamos que se cumple con el criterio para el **flujo de efectivo** puesto que la inversión se recupera al cuarto año (columna **FE ac.**).
 
