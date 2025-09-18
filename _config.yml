@@ -1,2 +1,5 @@
 theme: minima
-title: Blog arokemvi
+minima:
+  date_format: "%Y-%m-%d"
+lang: es-CL
+title: Blog de arokemvi
