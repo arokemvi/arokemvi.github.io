@@ -4,7 +4,6 @@ title:  "El gran apagón"
 date:   2025-02-27 14:32:00 -0300
 categories: Actualidad
 permalink: /:categories/:year/:month/:day/:title/
-author: Omar M.
 ---
 <div>
   <img src="/assets/images/el-gran-apagon.jpg" alt="El gran apagón" style="width:750px; max-height:450px;object-fit:cover;margin-bottom:20px"> 
