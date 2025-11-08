@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Kingarauko
 ---
 
 ## La necesidad de derechos específicos
