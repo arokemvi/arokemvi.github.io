@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-# Ley indígena
+
 ## La necesidad de derechos específicos
 
 Los pueblos indígenas tienen una realidad distinta a la de la mayoría de la población.
@@ -28,10 +28,11 @@ Esto llevó a la creación de instrumentos específicos:
 
 1. Convenio 169 de la OIT (1989):
 Reconoce derechos sobre tierras, recursos, educación, lengua y participación política.
-
 2. Declaración de la ONU sobre los Derechos de los Pueblos Indígenas (2007):
 Reconoce su derecho a la autodeterminación, al autogobierno, y a mantener su cultura y territorio.
+
 ## En síntesis
+
 | Tema              | Derechos Humanos Universales         | Derechos de los Pueblos Indígenas                |
 | ----------------- | ------------------------------------ | ------------------------------------------------ |
 | **Sujeto**        | Individuo                            | Colectividad (pueblo o comunidad)                |
